@@ -1,1 +1,4 @@
-# E-commerce-website
+# Django E-commerce
+
+This is a very simple e-commerce website built with Django.
+The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can  enter their address and choose Stripe to handle the payment processing.
